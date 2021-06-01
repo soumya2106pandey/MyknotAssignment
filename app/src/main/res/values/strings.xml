@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myknot assignment</string>
+    <string name="successBtn">Success</string>
+    <string name="refreshBtn">Refresh</string>
+</resources>
